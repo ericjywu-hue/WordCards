@@ -207,10 +207,6 @@ namespace WordCards
                     break;
             }
         }
-
-        private void palMain_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
+        
     }
 }
